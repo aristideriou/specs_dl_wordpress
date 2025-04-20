@@ -221,13 +221,13 @@ Liste exhaustive :
 ### Clics widgets interactions articles
 
 Lors des clics sur les différents widgets d'interaction sur les articles :
-  - ✔️ Lire plus tard
-  - ✔️ Écouter (player)
-  - 🕰️ Offrir cet article
-  - ✔️ Partage social Facebook
-  - ✔️ Partage social Twitter
-  - ✔️ Partage social Mail
-  - ✔️ Toolbar
+  - Lire plus tard
+  - Écouter (player)
+  - Offrir cet article
+  - Partage social Facebook
+  - Partage social Twitter
+  - Partage social Mail
+  - Toolbar
 
 ```javascript
 (window.dataLayer = window.dataLayer || []).push({
